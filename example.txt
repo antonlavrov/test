@@ -1,0 +1,5 @@
+git config --global user.name "Anton Lavrov"
+git config --global user.email "lavrov.anton.rnd@gmail.com"
+
+git remote add origin https://github.com/antonlavrov/test.git
+git push origin master
